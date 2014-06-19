@@ -1,0 +1,11 @@
+{
+  "name": "unfold",
+  "version": "0.0.1",
+  "description": "Create a CSS folding effect on content",
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mpazienza/unfold.git"
+  }
+}
